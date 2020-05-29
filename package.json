@@ -1,5 +1,4 @@
 {
-
     "name":"management",
     "version":"1.0.0",
     "script":{
@@ -13,7 +12,5 @@
         "devDependencies":{
             "concurrently":"^4.0.1"
         }
-
-
     }
 }
